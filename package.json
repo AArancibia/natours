@@ -9,7 +9,7 @@
   "author": "Alexis Arancibia",
   "license": "MIT",
   "devDependencies": {
-    "node-sass": "^4.9.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {}
 }
